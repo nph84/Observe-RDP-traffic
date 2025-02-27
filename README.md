@@ -22,9 +22,9 @@ This tutorial outlines the steps to observe RDP traffic.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/a9c3a6e6-3c12-4542-9d0a-797f814db6bb" height="200%" width="200%"
+<img src="https://github.com/user-attachments/assets/dea339fe-aaec-432d-a32d-786c832e994b" height="200%" width="200%"
   </p>
 
-<p>Find Windows 10 public IP and connect to Windows 10 VM using remote desktop</p>
+<p>Go into Wireshark and filter for remote desktop traffic via port 3389 and observe constant data being sent through remote desktop connection</p>
 <br />
 
