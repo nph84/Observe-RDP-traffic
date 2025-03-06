@@ -21,9 +21,8 @@ This tutorial outlines the steps to observe RDP traffic.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/dea339fe-aaec-432d-a32d-786c832e994b"
-  </p>
-
-<p>Go into Wireshark and filter for remote desktop traffic via port 3389 and observe constant data being sent through remote desktop connection</p>
+Go into Wireshark and filter for remote desktop traffic via port 3389 and observe constant data being sent through remote desktop connection <br /> <br />
+<img src="https://github.com/user-attachments/assets/dea339fe-aaec-432d-a32d-786c832e994b" height="80%" width="80%"/>
+</p>
 <br />
 
